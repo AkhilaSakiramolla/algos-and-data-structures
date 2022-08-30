@@ -2,7 +2,7 @@
 
 This repository contains a collection of algorithm and data structures concepts in Python.
 
-The folders in the repository contain the repective sorce code files for each of the implementations along with the corresponding results and output files.
+The folders in the repository contain the repective source code files for each of the implementations along with the corresponding results and output files.
 
 Note: All the source codes are built in python and do not use any pre-existing libraries.
 
